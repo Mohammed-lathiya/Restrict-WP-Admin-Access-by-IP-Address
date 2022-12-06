@@ -1,3 +1,5 @@
+# Notes: Do not edit your root .htaccess file. Make sure you are editing /wp-admin/.htaccess.
+ 
 <LIMIT GET>
 order deny,allow
 
