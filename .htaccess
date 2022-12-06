@@ -1,0 +1,12 @@
+<LIMIT GET>
+order deny,allow
+
+deny from all
+
+# whitelist MD's IP address
+allow from 27.109.26.14
+
+# whitelist MS's IP address
+allow from 77.189.78.54
+
+</LIMIT>
